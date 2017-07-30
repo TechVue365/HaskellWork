@@ -1,0 +1,9 @@
+We have a given list of numbers
+We then input the space we want to insert number in.(store value in nspace)
+We then input the value we want to insert in the place.(store value in newvalue_n)
+Then find the length of list
+We then  do nspace -1
+Then length of list - nspace.
+Then create a take operation for the nspace-1
+Then create a drop operation of the length of list- nspace.
+Then the result will be to concatenate the take operation result ++ newvalue_n ++ new_drop.

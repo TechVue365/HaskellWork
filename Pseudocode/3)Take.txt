@@ -1,0 +1,2 @@
+The take function works by going through the list from the beginning, individually and storing the selection of the number into a variable.
+We then concatenate the results this would then result in the answer similar to the take operation.

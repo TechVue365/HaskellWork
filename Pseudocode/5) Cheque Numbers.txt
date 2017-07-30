@@ -1,0 +1,6 @@
+Accept a number store it into a  variable named input1 (259)
+Check to see if  (input1 < 0) if true return Number is a negative number 
+else
+convert number to text
+return input1 as text number format (meaning "two
+hundred and fifty nine")

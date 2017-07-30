@@ -1,0 +1,2 @@
+User inputs an integer (stores in variable input1)
+We then check to see if input1 > 0 if it is greater than 0  the function return True else return False.

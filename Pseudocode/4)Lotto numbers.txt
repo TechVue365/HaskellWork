@@ -1,0 +1,9 @@
+User inputs a list of 6 numbers.
+A variable stores the list as lottonums.
+We then create a random generator for nums within a certain number range e.g 1 to 32.This would give an output of 6 winning numbers.Which we then store into a next variable named win_nums.
+We then try and use a match function to determine if the numbers the user inputted matches the winning numbers generated. 
+If lottonums==win_nums
+return win
+else
+return lose
+We then print if the user has won or has lost.
